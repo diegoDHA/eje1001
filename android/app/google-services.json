@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997637166600",
+    "project_id": "servicioelec-6a592",
+    "storage_bucket": "servicioelec-6a592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997637166600:android:cd0f99f2372927a139e3bd",
+        "android_client_info": {
+          "package_name": "com.eje0701frb.eje0701"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997637166600-a9a32eo3s5t1jphdpk55q6sbbo3idkp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcNaNzMWXAv9Nx9-cM6X3rJbAkrV838jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997637166600-a9a32eo3s5t1jphdpk55q6sbbo3idkp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
